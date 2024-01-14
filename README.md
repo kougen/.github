@@ -1,2 +1,3 @@
-# .github
-Description on the organization
+# Kougen's .github repo
+
+Special repository for describing the organization
